@@ -1,12 +1,14 @@
 Requirements to correctly open Lab2\Command Files\lab2.ipynb:
->python>=3.8.0
+'''
+python>=3.8.0
 jupyter>=1.0.0
 matplotlib>=3.4.2
 notebook>=6.4.3
 numpy>=1.20.3
 pandas>=1.3.3
->
+'''
 
+'''
 Files structure:
 >Lab2
 |   
@@ -33,4 +35,4 @@ Files structure:
     |   
     \---Metadata
             Metadata_Guide.md
->
+'''

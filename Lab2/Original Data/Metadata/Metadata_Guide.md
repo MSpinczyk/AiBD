@@ -1,4 +1,4 @@
-Orginal data 'drinks.csv' is available in ../Orginal Data/drinks.csv .
+Orginal data `drinks.csv` is available in `../Orginal Data/drinks.csv` .
 
 Variables:
 * country - information about country
